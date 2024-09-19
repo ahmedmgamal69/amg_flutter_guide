@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169030454232",
+    "project_id": "amgflutter-1c52c",
+    "storage_bucket": "amgflutter-1c52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169030454232:android:e90ee126c7eab407fe80ad",
+        "android_client_info": {
+          "package_name": "com.example.amg_flutter_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gys2wazDzmwWsjdPEMt0pm_No3HuuIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
